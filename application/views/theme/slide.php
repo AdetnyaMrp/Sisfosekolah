@@ -15,5 +15,5 @@
             </div>
             <!--/ single_carouse -->
             
-        </div>dasdsad
+        </div>
     </div>
