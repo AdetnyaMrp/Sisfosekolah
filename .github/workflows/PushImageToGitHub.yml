@@ -20,4 +20,4 @@ jobs:
         with:
           context: DockerFileFolder/
           push: true
-          tags: wahyu993/sisfosekolah:latest
+          tags: adetya2002/Sisfosekolah:latest
