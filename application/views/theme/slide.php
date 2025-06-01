@@ -12,7 +12,7 @@
                         </div>
                     </div>
                 </div>
-            </div>p
+            </div>
             <!--/ single_carouse -->
             
         </div>
